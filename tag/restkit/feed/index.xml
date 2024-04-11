@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>restkit Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Sat, 20 Jul 2013 11:51:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>restkit Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A very special thanks!</title>
+		<link>./../../../a-very-special-thanks/index.html</link>
+					<comments>./../../../a-very-special-thanks/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Tue, 23 Jul 2013 11:30:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[restkit]]></category>
+		<category><![CDATA[thanks]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=467</guid>
+
+					<description><![CDATA[<p>It has been a very long way through the development of this app. There have been very awesome moments full of enthusiasm and others when I really wanted to give up. No matter what, despite all the difficulties,  GitLab Control is now the first real iOS App that brings your GitLab projects with you wherever you go. I</p>
+<p><a href="./../../../a-very-special-thanks/index.html">Continue Reading &#8594;</a></p>
+<p>The post <a href="./../../../a-very-special-thanks/index.html">A very special thanks!</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It has been a very long way through the development of this app.</p>
+<p>There have been very awesome moments full of enthusiasm and others when I really wanted to give up.</p>
+<p>No matter what, despite all the difficulties,  GitLab Control is now the first real iOS App that brings your GitLab projects with you wherever you go.</p>
+<p>I really want to thank these people for supporting me during this time:</p>
+<div class="list-set type-1 list-blue">
+<ul>
+<li><strong>Liwei Xia:</strong> for cooking and taking care of me during my sleepless coding night.</li>
+<li><strong>Dale Buckley:</strong> friend and colleague for putting up with me.</li>
+<li><strong>Fabio Ricali:</strong> author of the cool GitLab Control logo.</li>
+<li><strong>Armando Alberti:</strong> for helping me with the website.</li>
+<li><strong>Jean Baptiste Praud:</strong> for localizing GitLab Control in French.</li>
+<li><strong>Blake Watters:</strong> author of <a href="https://github.com/RestKit/RestKit" target="_blank">RestKit</a>.</li>
+<li><strong>All the people who joined the beta test:</strong> for their valuable feedbacks and suggestions.</li>
+<li><strong>My Mom:</strong> always thank your mom! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ul>
+</div>
+<p>The post <a href="./../../../a-very-special-thanks/index.html">A very special thanks!</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../a-very-special-thanks/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

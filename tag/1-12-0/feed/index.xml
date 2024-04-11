@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1.12.0 Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Sun, 31 May 2015 18:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>1.12.0 Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Version 1.12.0</title>
+		<link>./../../../version-1-12-0/index.html</link>
+					<comments>./../../../version-1-12-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sun, 31 May 2015 18:15:05 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.12.0]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[avatar]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[pro]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=835</guid>
+
+					<description><![CDATA[<p>We&#8217;ve been working around the clock to bring enhanced support for even more formats on our source code browser. We revamped comments with some stylish tweaks and Pro users can now enjoy project and group avatars! We now support: We have also included few bug fixes to keep everything running smoothly.</p>
+<p>The post <a href="./../../../version-1-12-0/index.html">Version 1.12.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;ve been working around the clock to bring enhanced support for even more formats on our source code browser.<br />
+We revamped comments with some stylish tweaks and Pro users can now enjoy project and group avatars!</p>
+<p>We now support:</p>
+<div class="list-set type-1 list-black">
+<ul>
+<li>Pdfs</li>
+<li>Word</li>
+<li>Excel</li>
+<li>Powerpoint</li>
+<li>CoffeeScript</li>
+<li>Haxe</li>
+<li>Typescript</li>
+</ul>
+</div>
+<p>We have also included few bug fixes to keep everything running smoothly.</p>
+<p>The post <a href="./../../../version-1-12-0/index.html">Version 1.12.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-12-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1.1 Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Tue, 23 Jul 2013 17:55:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>1.1 Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>About the invalid SSL certificate problem</title>
+		<link>./../../../about-the-invalid-ssl-certificate-problem/index.html</link>
+					<comments>./../../../about-the-invalid-ssl-certificate-problem/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Tue, 23 Jul 2013 17:51:43 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[1.1]]></category>
+		<category><![CDATA[certificate]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[https]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[self signed]]></category>
+		<category><![CDATA[ssl]]></category>
+		<category><![CDATA[untrust]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=618</guid>
+
+					<description><![CDATA[<p>I am aware that some users reported few problems about be able to establish an SSL connection through the app and GitLab. GitLab Control is very strict about the safety of accutane restores a natural beauty of your skin but buy accutane and Its Easy and Safe! your data and in order to establish an</p>
+<p><a href="./../../../about-the-invalid-ssl-certificate-problem/index.html">Continue Reading &#8594;</a></p>
+<p>The post <a href="./../../../about-the-invalid-ssl-certificate-problem/index.html">About the invalid SSL certificate problem</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I am aware that some users reported few problems about be able to establish an SSL connection through the app and GitLab.</p>
+<p>GitLab Control is very strict about the safety of accutane restores a natural beauty of your skin but <a href="https://accutane4acne.com/"> buy accutane </a> and Its Easy and Safe! your data and in order to establish an SSL connection to your GitLab server you need to own a valid SSL certificate.</p>
+<p>One of the common problem you may face is that your certificate is <strong>self signed</strong>, so GitLab Control mark it as invalid not allowing you to establish an unsafe connection.</p>
+<p>Due to numerous requests, we have decided to be more flexible.</p>
+<p>Since version 1.1 you will be notified when attempting to connect through SSL using a <strong>self signed certificate</strong> and you will be able to proceed at your own risk.</p>
+<p>This has already been implemented, but I can not pull the current <a title="Version 1.0.1" href="./../../../version-1-0-1/index.html">version 1.0.1</a> because it contains a very important bug fix, which needs to be available to all of you as soon as possible.</p>
+<p>So, this new feature will be available (for everyone) probably during the next week.</p>
+<p>Unfortunately, these are Apple timings and there is no much I can do to speed up the process, but meanwhile I can show you how it will look like <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-popup.png"><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-619" alt="Invalid SSL Certificate" src="./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-popup.png" width="320" height="480" srcset="./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-popup.png 320w, ./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-popup-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a> <a href="./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-settings.png"><img decoding="async" class="alignnone size-full wp-image-620" alt="Invalid SSL Certificate Settings" src="./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-settings.png" width="320" height="480" srcset="./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-settings.png 320w, ./../../../wordpress/wp-content/uploads/2013/07/invalid-ssl-settings-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<div class="box-wrap notice-box">
+<div class="box">
+Please note that this is an exception valid only for <strong>untrusted certificates</strong> (for example a <strong>self signed </strong>one). There may be a bunch of others errors that can cause your certificate to be invalid, but you should be able to fix them without the need to pay for a certificate signed by a proper CA.
+</div>
+</div>
+<p>The post <a href="./../../../about-the-invalid-ssl-certificate-problem/index.html">About the invalid SSL certificate problem</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../about-the-invalid-ssl-certificate-problem/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

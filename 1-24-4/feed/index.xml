@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Version 1.24.4	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Fri, 25 Feb 2022 16:09:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		By: Valerio Mazzeo		</title>
+		<link>./../index.html#comment-2018</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2022 16:09:07 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1080#comment-2018</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-1218&quot;&gt;Abdurehim&lt;/a&gt;.
+
+Hi Abdurehim,
+
+Push notifications have been implemented since January 2017, but unfortunately the GitLab server team is ignoring my requirements to have them work.
+
+As of today is still a no go, as they say there isn’t enough interest from people in order to develop this integration.
+
+You can register your interest here https://gitlab.com/gitlab-org/gitlab-ce/issues/29488
+
+Apologies, that doesn&#039;t help your case.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-1218">Abdurehim</a>.</p>
+<p>Hi Abdurehim,</p>
+<p>Push notifications have been implemented since January 2017, but unfortunately the GitLab server team is ignoring my requirements to have them work.</p>
+<p>As of today is still a no go, as they say there isn’t enough interest from people in order to develop this integration.</p>
+<p>You can register your interest here <a href="https://gitlab.com/gitlab-org/gitlab-ce/issues/29488" rel="nofollow ugc">https://gitlab.com/gitlab-org/gitlab-ce/issues/29488</a></p>
+<p>Apologies, that doesn&#8217;t help your case.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Abdurehim		</title>
+		<link>./../index.html#comment-1218</link>
+
+		<dc:creator><![CDATA[Abdurehim]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 08:43:40 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1080#comment-1218</guid>
+
+					<description><![CDATA[Hello. 
+I&#039;ve been using Gitlab Control iOS App for some time now, and I&#039;m planning to upgrade. I want to know one thing though: in the full version, can I get notifications when someone in my team send a commit on the projects I&#039;m participated in? I really need this feature and that&#039;s why I want to try the pro version in the first place. 
+Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Hello.<br />
+I&#8217;ve been using Gitlab Control iOS App for some time now, and I&#8217;m planning to upgrade. I want to know one thing though: in the full version, can I get notifications when someone in my team send a commit on the projects I&#8217;m participated in? I really need this feature and that&#8217;s why I want to try the pro version in the first place.<br />
+Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

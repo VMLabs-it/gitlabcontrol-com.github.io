@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Version 1.18.0	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Wed, 27 Jul 2016 17:20:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		By: Valerio Mazzeo		</title>
+		<link>./../index.html#comment-90</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2016 17:20:01 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=912#comment-90</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-89&quot;&gt;Ioannis Kappas&lt;/a&gt;.
+
+Thanks for the heads up! It&#039;s already fixed and it will be released with 1.18.1.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-89">Ioannis Kappas</a>.</p>
+<p>Thanks for the heads up! It&#8217;s already fixed and it will be released with 1.18.1.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ioannis Kappas		</title>
+		<link>./../index.html#comment-89</link>
+
+		<dc:creator><![CDATA[Ioannis Kappas]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2016 16:33:42 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=912#comment-89</guid>
+
+					<description><![CDATA[Thanks for this great app. 
+
+There is a bug on the settings page that prohibits the selection of the syntax highlighter theme.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for this great app. </p>
+<p>There is a bug on the settings page that prohibits the selection of the syntax highlighter theme.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for GitLab Control	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../app/gitlab-control/index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Fri, 25 Feb 2022 16:09:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		Comment on Version 1.24.4 by Valerio Mazzeo		</title>
+		<link>./../../1-24-4/index.html#comment-2018</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2022 16:09:07 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1080#comment-2018</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../1-24-4/index.html#comment-1218&quot;&gt;Abdurehim&lt;/a&gt;.
+
+Hi Abdurehim,
+
+Push notifications have been implemented since January 2017, but unfortunately the GitLab server team is ignoring my requirements to have them work.
+
+As of today is still a no go, as they say there isn’t enough interest from people in order to develop this integration.
+
+You can register your interest here https://gitlab.com/gitlab-org/gitlab-ce/issues/29488
+
+Apologies, that doesn&#039;t help your case.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../1-24-4/index.html#comment-1218">Abdurehim</a>.</p>
+<p>Hi Abdurehim,</p>
+<p>Push notifications have been implemented since January 2017, but unfortunately the GitLab server team is ignoring my requirements to have them work.</p>
+<p>As of today is still a no go, as they say there isn’t enough interest from people in order to develop this integration.</p>
+<p>You can register your interest here <a href="https://gitlab.com/gitlab-org/gitlab-ce/issues/29488" rel="nofollow ugc">https://gitlab.com/gitlab-org/gitlab-ce/issues/29488</a></p>
+<p>Apologies, that doesn&#8217;t help your case.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.24.4 by Abdurehim		</title>
+		<link>./../../1-24-4/index.html#comment-1218</link>
+
+		<dc:creator><![CDATA[Abdurehim]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2021 08:43:40 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1080#comment-1218</guid>
+
+					<description><![CDATA[Hello. 
+I&#039;ve been using Gitlab Control iOS App for some time now, and I&#039;m planning to upgrade. I want to know one thing though: in the full version, can I get notifications when someone in my team send a commit on the projects I&#039;m participated in? I really need this feature and that&#039;s why I want to try the pro version in the first place. 
+Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Hello.<br />
+I&#8217;ve been using Gitlab Control iOS App for some time now, and I&#8217;m planning to upgrade. I want to know one thing though: in the full version, can I get notifications when someone in my team send a commit on the projects I&#8217;m participated in? I really need this feature and that&#8217;s why I want to try the pro version in the first place.<br />
+Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.19.3 by Valerio Mazzeo		</title>
+		<link>./../../version-1-19-3/index.html#comment-111</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sun, 19 Mar 2017 09:29:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=962#comment-111</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../version-1-19-3/index.html#comment-110&quot;&gt;Benjamin Behr&lt;/a&gt;.
+
+Apple doesn&#039;t allow to choose what language the app is on, unless you switch your phone&#039;s language from Spanish to English.
+
+Is there anything in the Spanish translation that doesn&#039;t make sense?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../version-1-19-3/index.html#comment-110">Benjamin Behr</a>.</p>
+<p>Apple doesn&#8217;t allow to choose what language the app is on, unless you switch your phone&#8217;s language from Spanish to English.</p>
+<p>Is there anything in the Spanish translation that doesn&#8217;t make sense?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.19.3 by Benjamin Behr		</title>
+		<link>./../../version-1-19-3/index.html#comment-110</link>
+
+		<dc:creator><![CDATA[Benjamin Behr]]></dc:creator>
+		<pubDate>Sun, 12 Mar 2017 19:17:25 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=962#comment-110</guid>
+
+					<description><![CDATA[Thanks for the update. I like the spanish translation but how do I switch back to english?]]></description>
+			<content:encoded><![CDATA[<p>Thanks for the update. I like the spanish translation but how do I switch back to english?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.18.0 by Valerio Mazzeo		</title>
+		<link>./../../version-1-18-0/index.html#comment-90</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2016 17:20:01 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=912#comment-90</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../version-1-18-0/index.html#comment-89&quot;&gt;Ioannis Kappas&lt;/a&gt;.
+
+Thanks for the heads up! It&#039;s already fixed and it will be released with 1.18.1.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../version-1-18-0/index.html#comment-89">Ioannis Kappas</a>.</p>
+<p>Thanks for the heads up! It&#8217;s already fixed and it will be released with 1.18.1.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.18.0 by Ioannis Kappas		</title>
+		<link>./../../version-1-18-0/index.html#comment-89</link>
+
+		<dc:creator><![CDATA[Ioannis Kappas]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2016 16:33:42 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=912#comment-89</guid>
+
+					<description><![CDATA[Thanks for this great app. 
+
+There is a bug on the settings page that prohibits the selection of the syntax highlighter theme.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for this great app. </p>
+<p>There is a bug on the settings page that prohibits the selection of the syntax highlighter theme.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.17.1 by Valerio Mazzeo		</title>
+		<link>./../../version-1-17-1/index.html#comment-74</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sun, 12 Jun 2016 08:40:13 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=904#comment-74</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../version-1-17-1/index.html#comment-73&quot;&gt;Jordi Llonch&lt;/a&gt;.
+
+Yes, CI builds are on the roadmap, but priority at the moment is on push notifications.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../version-1-17-1/index.html#comment-73">Jordi Llonch</a>.</p>
+<p>Yes, CI builds are on the roadmap, but priority at the moment is on push notifications.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.17.1 by Jordi Llonch		</title>
+		<link>./../../version-1-17-1/index.html#comment-73</link>
+
+		<dc:creator><![CDATA[Jordi Llonch]]></dc:creator>
+		<pubDate>Sun, 12 Jun 2016 03:17:55 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=904#comment-73</guid>
+
+					<description><![CDATA[Thanks for this amazing app. 
+
+Any plans to support CI builds?]]></description>
+			<content:encoded><![CDATA[<p>Thanks for this amazing app. </p>
+<p>Any plans to support CI builds?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.13.0 by Valerio Mazzeo		</title>
+		<link>./../../version-1-13-0/index.html#comment-33</link>
+
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2015 09:18:47 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=848#comment-33</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../version-1-13-0/index.html#comment-32&quot;&gt;Frizlab&lt;/a&gt;.
+
+Thanks, new features are already written in Swift :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../version-1-13-0/index.html#comment-32">Frizlab</a>.</p>
+<p>Thanks, new features are already written in Swift 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Version 1.13.0 by Frizlab		</title>
+		<link>./../../version-1-13-0/index.html#comment-32</link>
+
+		<dc:creator><![CDATA[Frizlab]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2015 07:27:21 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=848#comment-32</guid>
+
+					<description><![CDATA[Great! When do you do Swift? :)]]></description>
+			<content:encoded><![CDATA[<p>Great! When do you do Swift? 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

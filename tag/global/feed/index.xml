@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>global Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Fri, 03 Mar 2017 11:18:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>global Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Version 1.19.2</title>
+		<link>./../../../version-1-19-2/index.html</link>
+					<comments>./../../../version-1-19-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Thu, 23 Feb 2017 08:50:28 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.19.2]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[chinese]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[recent]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[translation]]></category>
+		<category><![CDATA[wang]]></category>
+		<category><![CDATA[yun]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=958</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-19-2/index.html">Version 1.19.2</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-3 list-blue">
+<ul>
+<li>Global Search results are now sorted by most recent, then alphabetically.</li>
+<li>Improved Chinese translation (thanks Wang Yun).</li>
+</ul>
+</div>
+<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed an issue with the Wiki.</li>
+<li>Improved app stability.</li>
+<li>Bug fixes and optimizations.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-19-2/index.html">Version 1.19.2</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-19-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.19.1</title>
+		<link>./../../../version-1-19-1/index.html</link>
+					<comments>./../../../version-1-19-1/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sat, 11 Feb 2017 21:05:33 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.19.1]]></category>
+		<category><![CDATA[big]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[connection]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[load]]></category>
+		<category><![CDATA[pro]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[timeout]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=948</guid>
+
+					<description><![CDATA[<p>Introducing Global Search!* You can now search ordering ativan 1 mg or buying ativan 2 mg or purchaseing ativan online usa everything inside and GitLab Control!!! As usual we have improved the app performances. We have also fixed some issues that were preventing huge amount of data to load properly. * Available only to GitLab</p>
+<p><a href="./../../../version-1-19-1/index.html">Continue Reading &#8594;</a></p>
+<p>The post <a href="./../../../version-1-19-1/index.html">Version 1.19.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Introducing Global Search!*</p>
+<p>You can now search ordering ativan 1 mg or <a href="https://ativanusa.com/"> buying ativan 2 mg </a> or purchaseing ativan online usa everything inside and GitLab Control!!!</p>
+<p>As usual we have improved the app performances.<br />
+We have also fixed some issues that were preventing huge amount of data to load properly.</p>
+<p>* Available only to GitLab Control Pro users.<br />
+* Available only on iOS 9.x+ devices.</p>
+<p>The post <a href="./../../../version-1-19-1/index.html">Version 1.19.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-19-1/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.5.1</title>
+		<link>./../../../version-1-5-1/index.html</link>
+					<comments>./../../../version-1-5-1/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sun, 09 Feb 2014 16:22:48 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.5.1]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[id]]></category>
+		<category><![CDATA[iid]]></category>
+		<category><![CDATA[local]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=722</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-5-1/index.html">Version 1.5.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Replaced global IDs with local IDs (issues, merge requests, etc).</li>
+<li>Minor Bugfixes.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-5-1/index.html">Version 1.5.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-5-1/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>attachments Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Sun, 20 Dec 2015 22:57:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>attachments Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Version 1.14.0</title>
+		<link>./../../../version-1-14-0/index.html</link>
+					<comments>./../../../version-1-14-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2015 22:57:10 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.14.0]]></category>
+		<category><![CDATA[attachments]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[improvements]]></category>
+		<category><![CDATA[links]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=869</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-14-0/index.html">Version 1.14.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-3 list-blue">
+<ul>
+<li>Added links and images support to comments and descriptions.</li>
+</ul>
+</div>
+<div class="list-set type-15 list-blue">
+<ul>
+<li>Improved app stability.</li>
+<li>Bug fixes and optimizations.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-14-0/index.html">Version 1.14.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-14-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

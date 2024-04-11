@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1.10 Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Sun, 20 Jul 2014 23:12:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>1.10 Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Version 1.10</title>
+		<link>./../../../1-10/index.html</link>
+					<comments>./../../../1-10/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sat, 19 Jul 2014 00:34:32 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.10]]></category>
+		<category><![CDATA[activity]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[feed]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[links]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=790</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../1-10/index.html">Version 1.10</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-3 list-blue">
+<ul>
+<li>Added links to events page.</li>
+</ul>
+</div>
+<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed a bug that was causing low resolution avatars to be loaded when connecting to new Gitlab instances.</li>
+<li>Minor bugfixes.</li>
+<li>Stability Improvements.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../1-10/index.html">Version 1.10</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../1-10/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

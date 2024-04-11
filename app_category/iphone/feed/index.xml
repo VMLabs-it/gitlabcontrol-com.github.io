@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iPhone Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Thu, 11 Apr 2024 12:15:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>iPhone Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GitLab Control</title>
+		<link>./../../../app/gitlab-control/index.html</link>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2013 18:31:56 +0000</pubDate>
+				<guid isPermaLink="false">http://grizzly-dev.wegrass.com/?post_type=app&#038;p=131</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../app/gitlab-control/index.html">GitLab Control</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="clear"></div>
+<div class="space"></div>
+<h2 class="section-title section-title-center section-lined"><span>Nine reasons why you will love GitLab Control</span></h2>
+<div class="clear"></div>
+<div class="space"></div>
+<div class="clear"></div>
+<div class="space"></div>
+<div class="one_third">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/118.png" class="align-left" />
+<div class="icon-title">Issues</div><div class="clear"></div>
+</div>
+<p>Plan, track, work – smarter and faster. Capture and organize your team&#8217;s issues, prioritize and take action on what&#8217;s important, and stay up-to-date with what&#8217;s going on around you.</p></div>
+<div class="one_third">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/2.png" class="align-left" />
+<div class="icon-title">Source Code Browsing</div><div class="clear"></div>
+</div>
+<p>Our source code viewer makes it easy to browse, search, and manage your source code repository.</p></div>
+<div class="one_third last">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/1.png" class="align-left" />
+<div class="icon-title">Search</div><div class="clear"></div>
+</div>
+<p>Fast and accurate search options are available to navigate your code tree, issues, milestones and code snippets quickly. Any file names, IDs or Labels can take you straight where you need to be.</p></div>
+<div class="clear"></div>
+<div class="one_third">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/95.png" class="align-left" />
+<div class="icon-title">Sharing</div><div class="clear"></div>
+</div>
+<p>Share your source files and code snippets with anyone through your favourite services.</p></div>
+<div class="one_third">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/34.png" class="align-left" />
+<div class="icon-title">Address Book Integration</div><div class="clear"></div>
+</div>
+<p>Add a member of your team to your address book directly within GitLab Control. No more copy and paste.</p></div>
+<div class="one_third last">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/29.png" class="align-left" />
+<div class="icon-title">Calendar Integration</div><div class="clear"></div>
+</div>
+<p>Invite your team to an event to discuss about issues or milestones directly into your calendar.</p></div>
+<div class="clear"></div>
+<div class="one_third">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/20.png" class="align-left" />
+<div class="icon-title">Activity Stream</div><div class="clear"></div>
+</div>
+<p>Code doesn&#8217;t write itself–you and your team do. Follow exactly what&#8217;s happening throughout your project(s) in real time with activity streams displaying commits, issues, and more across all repositories.</p></div>
+<div class="one_third">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/163.png" class="align-left" />
+<div class="icon-title">Styled Text</div><div class="clear"></div>
+</div>
+<p>Style any comment or description with ease thanks to the additional input bar and the powerful preview mode. It supports markdown, HTML and the native emoji icons.</p></div>
+<div class="one_third last">
+
+<div class="icon-item icon-set-1">
+<img decoding="async" src="./../../../wordpress/wp-content/themes/grizzly-theme/base/assets/icons/1/63.png" class="align-left" />
+<div class="icon-title">Security</div><div class="clear"></div>
+</div>
+<p>Strong encryptions keeps your data safe. Also you can optionally protect the access to GitLab Control with an additional passcode lock.</p></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="space"></div>
+<h2 class="section-title section-title-left section-lined"><span>Take a peek</span></h2>
+<div class="clear"></div>
+<div class="space"></div>
+
+<div class="flexslider theme-gallery">
+<ul class="photos-bar-list slides" id="photos-bar-1159"><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-issues.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-issues-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-source-code.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-source-code-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-search.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-search-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-sharing.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-sharing-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-contact.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-contact-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-calendar.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-calendar-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-activity-stream.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-activity-stream-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-styled-text.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-styled-text-328x150.png" /></a></li><li><a class="gz-fancy" href="./../../../wordpress/wp-content/uploads/2013/07/feature-security.png" ><img decoding="async" class="ss-image" src="./../../../wordpress/wp-content/uploads/2013/07/feature-security-328x150.png" /></a></li></ul>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="space"></div>
+<h2 class="section-title section-title-right section-lined"><span>What our users say</span></h2>
+<div class="clear"></div>
+<div class="space"></div>
+<div class="one_half">
+<blockquote class="clearfix">
+<div class="press-quote" style="background-image: url('/wordpress/wp-content/uploads/2013/07/press-videocloud.png');">
+<p>“GitLab Control gives us direct insight into our Git controlled codebase from wherever we are. It allows us to keep on top of project milestones and issues which helps us to be more responsive and deliver higher quality products to our users.”</p>
+</div>
+<p class="cite"><cite>Adam Williams | Head of Technology<br />
+<a href="http://videocloud.com/" target="_blank" rel="noopener">videocloud.com →</a></cite></p>
+</blockquote>
+</div>
+<div class="one_half last">
+<blockquote class="clearfix">
+<div class="press-quote" style="background-image: url('/wordpress/wp-content/uploads/2014/04/press-githost.png');">
+<p>“GitLab control is the perfect solution for managing your code, team, and issues on the go. The UI is polished and intuitive and it works out of the box with any GitLab instance. A must have addition if you&#8217;re using GitLab.”</p>
+</div>
+<p class="cite"><cite>Josh Frye | Founder &#038; CTO</cite></p>
+</blockquote>
+</div>
+<div class="clear"></div>
+<div class="one_half">
+<blockquote class="clearfix">
+<div class="press-quote" style="background-image: url('/wordpress/wp-content/uploads/2013/07/press-creativekoder.png');">
+<p>“Gitlab Control is an amazing piece of software, the name says it all, you get full control of your workflow while on the go. GitHub doesn’t even come close. Great work!”</p>
+</div>
+<p class="cite"><cite>Anthony Josiah Braun | Creative Engineer<br />
+<a href="http://www.creativekode.com/" target="_blank" rel="noopener">creativekode.com →</a></cite></p>
+</blockquote>
+</div>
+<div class="one_half last">
+<blockquote class="clearfix">
+<div class="press-quote" style="background-image: url('/wordpress/wp-content/uploads/2013/07/press-pria.png');">
+<p>“GitLab Control is handy stuff. Now I can watch and manage repositories on the go with my iPhone. Everything that I need is now on my phone. Thank you for your awesome work!”</p>
+</div>
+<p class="cite"><cite>Martin Pernica | Developer<br />
+<a href="http://www.pria.cz/" target="_blank" rel="noopener">pria.cz →</a></cite></p>
+</blockquote>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="space"></div>
+<p>The post <a href="./../../../app/gitlab-control/index.html">GitLab Control</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

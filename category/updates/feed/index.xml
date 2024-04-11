@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Updates Archives | GitLab Control</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Brings your projects to your pocket</description>
+	<lastBuildDate>Fri, 13 Mar 2020 22:19:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wordpress/wp-content/uploads/2015/12/cropped-iTunesArtwork-150x150.png</url>
+	<title>Updates Archives | GitLab Control</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Version 1.24.4</title>
+		<link>./../../../1-24-4/index.html</link>
+					<comments>./../../../1-24-4/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2020 14:16:47 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.24.4]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[stability]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1080</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../1-24-4/index.html">Version 1.24.4</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Improved app stability.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../1-24-4/index.html">Version 1.24.4</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../1-24-4/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.24.3</title>
+		<link>./../../../version-1-24-3/index.html</link>
+					<comments>./../../../version-1-24-3/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sat, 22 Feb 2020 16:02:24 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.24.3]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[gitlab.com]]></category>
+		<category><![CDATA[login]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1078</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-24-3/index.html">Version 1.24.3</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed an issue preventing login to gitlab.com</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-24-3/index.html">Version 1.24.3</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-24-3/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.24.2</title>
+		<link>./../../../version-1-24-2/index.html</link>
+					<comments>./../../../version-1-24-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2019 16:51:39 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.24.2]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[wiki]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1059</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-24-2/index.html">Version 1.24.2</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed an issue preventing Wiki access when signing in using Google.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-24-2/index.html">Version 1.24.2</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-24-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.24.1</title>
+		<link>./../../../version-1-24-1/index.html</link>
+					<comments>./../../../version-1-24-1/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Fri, 17 May 2019 09:04:06 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.24.1]]></category>
+		<category><![CDATA[bar]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1050</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-24-1/index.html">Version 1.24.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed an issue preventing the markdown input bar to work.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-24-1/index.html">Version 1.24.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-24-1/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.24.0</title>
+		<link>./../../../version-1-24-0/index.html</link>
+					<comments>./../../../version-1-24-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Thu, 16 May 2019 16:49:38 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[code browser]]></category>
+		<category><![CDATA[lines]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[source]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1048</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-24-0/index.html">Version 1.24.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed line numbers alignment in source code browser.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-24-0/index.html">Version 1.24.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-24-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.23.3</title>
+		<link>./../../../version-1-23-3/index.html</link>
+					<comments>./../../../version-1-23-3/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2018 15:06:32 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[face]]></category>
+		<category><![CDATA[face id]]></category>
+		<category><![CDATA[id]]></category>
+		<category><![CDATA[iPhone x]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[touch]]></category>
+		<category><![CDATA[touch id]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1031</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-23-3/index.html">Version 1.23.3</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed an issue when using passcode lock on Face ID enabled devices.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-23-3/index.html">Version 1.23.3</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-23-3/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.23.2</title>
+		<link>./../../../version-1-23-2/index.html</link>
+					<comments>./../../../version-1-23-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sun, 23 Sep 2018 10:42:58 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[labels]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1023</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-23-2/index.html">Version 1.23.2</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed a problem when deleting labels.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-23-2/index.html">Version 1.23.2</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-23-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.23.1</title>
+		<link>./../../../version-1-23-1/index.html</link>
+					<comments>./../../../version-1-23-1/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Fri, 14 Sep 2018 14:00:52 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[iOS 12]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1020</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-23-1/index.html">Version 1.23.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-15 list-blue">
+<ul>
+<li>Made some improvements for iOS 12.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-23-1/index.html">Version 1.23.1</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-23-1/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.23.0</title>
+		<link>./../../../version-1-23-0/index.html</link>
+					<comments>./../../../version-1-23-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2018 13:59:38 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[release]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1002</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-23-0/index.html">Version 1.23.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-3 list-blue">
+<ul>
+<li>Added links from events screen for issues, milestones and merge request.</li>
+</ul>
+</div>
+<div class="list-set type-15 list-blue">
+<ul>
+<li>Fixed an issue when authenticating using a Google account.</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-23-0/index.html">Version 1.23.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-23-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Version 1.22.0</title>
+		<link>./../../../version-1-22-0/index.html</link>
+					<comments>./../../../version-1-22-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Valerio Mazzeo]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2017 22:53:04 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1password]]></category>
+		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[gitlab.com]]></category>
+		<category><![CDATA[login]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[sign in]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=999</guid>
+
+					<description><![CDATA[<p>The post <a href="./../../../version-1-22-0/index.html">Version 1.22.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="list-set type-3 list-blue">
+<ul>
+<li>OAuth for gitlab.com</li>
+</ul>
+</div>
+<p>The post <a href="./../../../version-1-22-0/index.html">Version 1.22.0</a> appeared first on <a href="./../../../index.html">GitLab Control</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../version-1-22-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
